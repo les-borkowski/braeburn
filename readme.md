@@ -12,3 +12,14 @@
 - health/:  returns response if the Api is running
 <!-- get data from the url and return data here -->
 - api/?url=www.example.com: returns string www.example.com
+
+## process data from url
+
+- pass url as an argument to the module
+- validate:
+    - if invalid, log return error
+    - if valid:
+        - request data from url
+        - pass data thru soup
+        - filter data
+        - log and return data
