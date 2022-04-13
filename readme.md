@@ -11,7 +11,7 @@
 
 - health/:  returns response if the Api is running
 <!-- get data from the url and return data here -->
-- api/?url=www.example.com: returns string www.example.com
+- api/?url=<http://www.example.com>: returns string <http://www.example.com>
 
 ## process data from url
 
@@ -23,3 +23,15 @@
         - pass data thru soup
         - filter data
         - log and return data
+
+## todos
+
+- [x] validate the url
+- [x] finish words counter
+- [x] add missing tests to the word counter
+- [] add api docs (swagger)
+- [x] add word counter to the api view
+- [] review naming
+- [] lint whole project
+- [] dockerize
+- [] readme
