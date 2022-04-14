@@ -1,0 +1,71 @@
+{
+  "openapi": "3.0.2",
+  "info": {
+    "title": "A technical test",
+    "version": "0.0.2"
+  },
+  "paths": {
+    "/health/": {
+      "get": {
+        "operationId": "listhealths",
+        "description": "Health Endpoint",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {}
+                }
+              }
+            },
+            "description": "Returns OK when API is running"
+          }
+        },
+        "tags": [
+          "health"
+        ]
+      }
+    },
+    "/api/": {
+      "get": {
+        "operationId": "listapis",
+        "description": "Send valid url as a parameter",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "url",
+            "schema": {
+              "type": "string"
+            },
+            "description": "?url=https://example.com"
+          }
+        ],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {}
+                },
+                "example": {
+                  "data": {
+                    "word": 5,
+                    "next_word": 3,
+                    "another_word": 2
+                  }
+                }
+              }
+            },
+            "description": "Returns json response with words from the url, sorted by frequency (descending)"
+          }
+        },
+        "tags": [
+          "api"
+        ]
+      }
+    }
+  }
+}

@@ -20,8 +20,7 @@ def get_data_from_url(url_address):
 
 
 def get_text_from_html(web_page_data):
-    # remove html tags and return string of words from the <body> of the html using lxml parser
-    # page_data = web_page_data.text
+    # remove html tags, return string of words from the <body> using lxml parser
     soup = BeautifulSoup(web_page_data, 'lxml')
     words_string = soup.body.get_text(" ", strip=True)
     return words_string
@@ -39,4 +38,3 @@ def count_list_and_sort(string):
     words_counter = Counter(words)
     words_sorted_dict = dict(words_counter.most_common())
     return words_sorted_dict
-

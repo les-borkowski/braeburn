@@ -3,3 +3,8 @@ __pycache__/
 .secrets
 /src/braeburn.py
 /temp/
+*.yml
+templates/
+todos.md
+*.sqlite3
+*_cache
