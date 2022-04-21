@@ -1,6 +1,6 @@
 import requests
 from src.url_validator import UrlValidator
-from src.get_and_count_words import get_data_from_url, remove_quotes, count_list_and_sort, get_text_from_html
+from src.get_and_count_words import get_data_from_url, split_string, count_list_and_sort, get_text_from_html
 
 
 def test_url_validator():
@@ -43,17 +43,17 @@ def test_get_text_from_html():
     assert data == desired_output
 
 
-def test_remove_quotes():
-    string_quotes = "'Hello World' - said Razer1911"
-    string_noquotes = "hello world  said razer1911"
+def test_split_string():
+    string_quotes = "'Hello World' - said Snake"
+    string_noquotes = ["hello", "world", "said", "snake"]
 
-    string_clean = remove_quotes(string_quotes)
+    string_clean = split_string(string_quotes)
     assert string_clean == string_noquotes
 
 
 def test_count_list_and_sort():
-    test_string_2 = "hello hello  said razer"
-    desired_result_2 = {'hello': 2, 'said': 1, 'razer': 1}
+    test_string_2 = ["hello", "hello", "said", "snake"]
+    desired_result_2 = {'hello': 2, 'said': 1, 'snake': 1}
 
     string_sorted = count_list_and_sort(test_string_2)
     assert string_sorted == desired_result_2
