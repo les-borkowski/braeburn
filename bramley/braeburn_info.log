@@ -1,0 +1,837 @@
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-23 16:09:05.831062
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-23 16:20:30.997381
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-23 16:23:48.222856
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-23 16:28:33.300635
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-23 16:29:51.404862
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:26.175065
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:27.002968
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:28.094796
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:29.214721
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:30.251484
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:31.472368
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:32.588339
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:33.704466
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:34.749318
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:35.747641
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:36.801499
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:37.942215
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:39.130276
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:40.182766
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:41.482829
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:42.486042
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:43.547042
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:44.594732
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:45.782873
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:46.933179
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:48.152069
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:49.375579
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:50.510517
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:51.744081
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:52.983089
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:54.214277
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:55.358317
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:56.477066
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:57.577007
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:58.574736
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:56:59.622168
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:00.869473
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:01.997474
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:03.114113
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:04.333505
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:05.483324
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:06.681600
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:07.543681
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:08.673735
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:09.762677
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:10.972260
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:12.025174
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:13.117811
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:14.158303
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:15.166982
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:16.213105
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:17.344262
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:18.382224
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:19.498126
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:20.776904
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:21.963449
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:23.072046
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:24.205030
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:25.331060
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:26.338498
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:27.346592
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:28.416419
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:29.536203
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:30.762764
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:31.893958
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:32.922540
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:33.929869
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:35.096476
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:36.189194
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:37.218121
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:38.253585
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:39.248301
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:40.237511
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:41.303821
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:42.298208
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:43.327577
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:44.338572
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:45.409650
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:46.659901
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:47.847153
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:48.882219
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:50.009408
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:51.125269
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:52.158166
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:53.280162
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:54.407187
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:55.621662
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:56.630643
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:57.686933
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:58.714343
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:57:59.706818
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:58:00.764220
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:58:01.882240
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:58:02.895665
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:58:04.095617
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:58:05.256653
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:58:06.383704
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:58:07.133105
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:58:08.225360
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:58:09.361585
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:58:10.474008
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:58:11.598513
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:58:12.722926
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:58:13.861748
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:58:14.878553
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:58:15.903948
+INFO:root:10 | Success | http://google.com | 2022-02-23 18:58:17.048565
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:33.151081
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:33.468038
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:33.797995
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:34.112977
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:34.459799
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:34.810317
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:35.136374
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:35.468974
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:35.771594
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:36.079002
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:36.439940
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:36.759577
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:37.075890
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:37.405293
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:37.716252
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:38.025102
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:38.343427
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:38.661582
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:38.990735
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:39.305810
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:39.628422
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:39.952633
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:40.267273
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:40.584481
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:40.902798
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:41.214666
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:41.528839
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:41.845468
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:42.169228
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:42.488176
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:42.809171
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:43.124107
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:43.437930
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:43.752932
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:44.079168
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:44.401617
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:44.770322
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:45.081337
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:45.424605
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:45.771813
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:46.092723
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:46.421050
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:46.747364
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:47.088938
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:47.509499
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:47.865723
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:48.197294
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:48.510825
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:48.824693
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:49.137636
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:49.472191
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:49.789579
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:50.114285
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:50.426257
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:50.747223
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:51.072176
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:51.394634
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:51.696333
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:51.999036
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:52.355633
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:52.692834
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:53.005856
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:53.314584
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:53.625996
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:53.943382
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:54.266551
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:54.582574
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:54.891344
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:55.211509
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:55.523868
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:55.844379
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:56.169321
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:56.485810
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:56.853510
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:57.165989
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:57.489644
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:57.800468
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:58.132215
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:58.448243
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:58.766991
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:59.074270
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:59.402318
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:04:59.718814
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:05:00.040255
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:05:00.356702
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:05:00.660234
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:05:00.964477
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:05:01.277009
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:05:01.591767
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:05:01.913899
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:05:02.226039
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:05:02.543861
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:05:02.945570
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:05:03.300345
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:05:03.623994
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:05:03.940432
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:05:04.256005
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:05:04.580071
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:05:04.950316
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:05:05.278268
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:13:24.116929
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:13:24.413598
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:13:24.730350
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:13:25.053407
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:13:25.379978
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:13:25.695204
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:13:26.036516
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:13:26.368596
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:13:26.704445
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:13:27.017677
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:14:15.461032
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:14:15.749392
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:14:16.067702
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:14:16.384310
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:14:16.696787
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:14:17.012390
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:14:17.333701
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:14:17.655559
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:14:17.970794
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:14:18.290178
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:16:28.342596
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:16:28.631643
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:16:28.943101
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:16:29.262755
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:16:29.585206
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:16:29.899028
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:16:30.207670
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:16:30.521176
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:16:30.833117
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:16:31.153600
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:17:24.639677
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:17:24.939526
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:17:25.249277
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:17:25.562949
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:17:25.883422
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:17:26.197107
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:17:26.511093
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:17:26.833111
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:17:27.140767
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:17:27.447260
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:18:01.481471
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:18:01.771835
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:18:02.104302
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:18:02.416139
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:18:02.775494
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:18:03.222644
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:18:03.605264
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:18:03.930874
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:18:04.269541
+INFO:root:10 | Success | http://127.0.0.1:8000/admin/ | 2022-02-23 19:18:04.567951
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-23 20:24:04.302521
+INFO:root:10 | Success | http://www.gazeta.pl | 2022-02-25 16:24:16.021108
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 10:04:54.701358
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 11:04:57.983565
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 11:05:14.745884
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 11:19:06.656535
+INFO:root:10 | Success | https://gazeta.pl | 2022-02-28 11:20:16.221443
+INFO:root:10 | Success | https://gazeta.pl | 2022-02-28 11:23:49.340778
+INFO:root:10 | Success | https://gazeta.pl | 2022-02-28 11:25:16.319764
+INFO:root:10 | Success | https://wp.pl | 2022-02-28 11:25:51.084008
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 11:26:38.060355
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 11:28:14.999127
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 12:04:21.920841
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 12:12:08.406131
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 12:13:12.608156
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 12:13:42.078693
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 12:26:19.969416
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 12:28:08.152298
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 12:28:30.120657
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 12:28:54.446893
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 12:29:09.889875
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 12:29:33.348639
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 12:35:56.833547
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 12:36:31.602944
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 12:37:26.250660
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 12:39:44.102990
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 12:41:00.402029
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 12:41:28.359165
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 12:54:30.122249
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 12:54:58.629139
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 12:56:16.024822
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 12:57:06.186551
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 12:57:19.481107
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 12:57:33.057136
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 12:58:18.445148
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 12:58:34.113558
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 13:07:05.499104
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-28 14:46:22.812941
+ERROR:root:Error 02: URL is not valid -- example: http://bbc.co.uk | 2022-02-28 15:11:25.329790
+ERROR:root:Error 02: URL is not valid -- example: http://bbc.co.uk | 2022-03-02 09:40:31.576930
+ERROR:root:Error 02: URL is not valid -- example: http://bbc.co.uk | 2022-03-02 09:47:47.622598
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 09:49:29.984342
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:11:42.036660
+INFO:root:10 | Success | https://bbc.co.uk | 2022-03-02 10:12:34.664406
+INFO:root:10 | Success | https://bbc.co.uk | 2022-03-02 10:14:32.589812
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:15:23.005559
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:18:10.600139
+INFO:root:10 | Success | https://bbc.co.uk | 2022-03-02 10:18:15.527627
+INFO:root:10 | Success | https://bbc.co.uk | 2022-03-02 10:19:14.153494
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:19:20.309272
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:21:08.759618
+INFO:root:10 | Success | https://bbc.co.uk | 2022-03-02 10:21:50.281198
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:21:56.489234
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:22:12.322230
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:22:38.358398
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:23:17.478196
+INFO:root:10 | Success | http://www.wp.pl | 2022-03-02 10:23:30.401816
+INFO:root:10 | Success | https://bbc.co.uk | 2022-03-02 10:24:37.516835
+INFO:root:10 | Success | https://bbc.co.uk | 2022-03-02 10:25:04.184905
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:25:10.286850
+ERROR:root:Error 02: URL is not valid -- example: http://bbc.co.uk | 2022-03-02 10:32:55.768035
+ERROR:root:Error 02: URL is not valid -- example: http://bbc.co.uk | 2022-03-02 10:34:05.276846
+ERROR:root:Error 02: URL is not valid -- example: http://bbc.co.uk | 2022-03-02 10:35:26.890785
+ERROR:root:Error 02: URL is not valid -- example: http://bbc.co.uk | 2022-03-02 10:36:20.184022
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.626925
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.627132
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.627250
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.627351
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.627437
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.627516
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.627594
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.627674
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.627752
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.627948
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.628033
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.628111
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.628188
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.628275
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.628360
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.628441
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.628515
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.628589
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.628658
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.628726
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.628794
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.628868
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.628941
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.629009
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.629076
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.629143
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.629209
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.629275
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.629411
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.629483
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.629550
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.629617
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.629684
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.629773
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.629868
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.629934
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.630020
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.630109
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.630179
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.630256
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.630359
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.630461
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.630588
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.630695
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.630785
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.630870
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.630944
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.631006
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.631080
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.631224
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.631292
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.631366
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.631425
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.631483
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.631545
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.631603
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.631660
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.631721
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.631778
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.631838
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.631894
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.631950
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.632010
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.632066
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.632127
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.632184
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.632240
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.632300
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.632356
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.632477
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.633062
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.633140
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.633210
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.633272
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.633331
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.633395
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.633453
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.633514
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.633591
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.633650
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.633712
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.633770
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.633831
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.633888
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.633945
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.634005
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.634062
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.634122
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.634177
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.634234
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.634294
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.634351
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.634483
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.634541
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.634599
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.634659
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.634716
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.634772
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.634832
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.634888
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.634948
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.635005
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.635061
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.635122
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.635179
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.635239
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.635295
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.635352
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.635413
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.635469
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.635529
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.635586
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.635643
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.635771
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.635831
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.635893
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.635950
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.636007
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.636067
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.636123
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.636180
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.636254
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.636313
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.636373
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.636430
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.636487
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.636546
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.636603
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.636663
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.636720
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.636787
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.636849
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.636908
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.636970
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.637099
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.637160
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.637223
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.637282
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.637341
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.637402
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.637461
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.637523
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.637580
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.637649
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.637742
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.637814
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.637882
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.637946
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.638010
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.638078
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.638142
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.638210
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.638274
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.638338
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.638405
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.638549
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.638620
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.638686
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.638750
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.638819
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.638884
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.638947
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.639015
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.639099
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.639163
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.639221
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.639278
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.639339
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.639397
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.639459
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.639518
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.639576
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.639638
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.639695
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.639757
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.639815
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.639943
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.640008
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.640067
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.640130
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.640188
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.640246
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.640307
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.640365
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.640423
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.640485
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.640550
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.640614
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.640672
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.640731
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.640793
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.640851
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.640913
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.640972
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.641029
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.641092
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.641151
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.641284
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.641346
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.641405
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.641467
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.641526
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.641585
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.641647
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.641706
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.641783
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.641843
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.641901
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.641964
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.642023
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.642084
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.642142
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.642200
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.642262
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.642320
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.642381
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.642439
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.642497
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.642663
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.642736
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.642800
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.642859
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.642917
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.642979
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.643037
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.643095
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.643157
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.643216
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.643300
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.643357
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.643415
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.643477
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.643535
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.643597
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.643656
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.643714
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.643775
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.643833
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.643899
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.644028
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.644090
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.644153
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.644212
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.644275
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.644334
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.644392
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.644455
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.644529
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.644589
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.644651
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.644710
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.644773
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.644831
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.644889
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.644951
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.645009
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.645071
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.645130
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.645188
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.645250
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.645381
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.645446
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.645505
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.645563
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.645626
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.645685
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.645744
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.645805
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.645863
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.645925
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.645984
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.646041
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.646103
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.646162
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.646223
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.646281
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.646338
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.646400
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.646458
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.646520
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.646577
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.646705
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.646779
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.646837
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.646897
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.646955
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.647010
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.647070
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.647127
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.647184
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.647259
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.647317
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.647377
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.647434
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.647490
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.647550
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.647607
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.647667
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.647724
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.647780
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.647842
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.647900
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.648031
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.648091
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.648169
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.648229
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.648297
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.648390
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.648454
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.648522
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.648590
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.648654
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.648717
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.648785
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.648849
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.648916
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.648980
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.649048
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.649120
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.649185
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.649254
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.649318
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.649382
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.649574
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.649646
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.649710
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.649768
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.649827
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.649888
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.649945
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.650001
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.650061
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.650139
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.650202
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.650262
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.650319
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.650380
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.650437
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.650496
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.650557
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.650614
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.650674
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.650731
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.650794
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.650851
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.650981
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.651043
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.651101
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.651162
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.651219
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.651276
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.651335
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.651395
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.651452
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.651515
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.651572
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.651631
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.651688
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.651744
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.651804
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.651864
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.651925
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.651983
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.652043
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.652124
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.652193
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.652333
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.652403
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.652463
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.652530
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.652592
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.652656
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.652720
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.652781
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.652860
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.652921
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.652982
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.653048
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.653111
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.653175
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.653235
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.653298
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.653362
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.653429
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.653488
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.653545
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.653601
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.653733
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.653793
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.653853
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.653913
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.653970
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.654029
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.654086
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.654142
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.654204
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.654261
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.654321
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.654377
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.654439
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.654499
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.654555
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.654615
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.654672
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.654732
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.654792
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.654848
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.654909
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.655043
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.655104
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.655167
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.655225
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.655285
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.655345
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.655403
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.655462
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.655534
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.655595
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.655655
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.655712
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.655771
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.655828
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.655888
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.655949
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.656005
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.656066
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.656124
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.656181
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.656240
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.656368
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.656445
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.656550
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.656630
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.656700
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.656757
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.656818
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.656875
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.656931
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.656990
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.657050
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.657107
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.657167
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.657223
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.657284
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.657343
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.657400
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.657463
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.657519
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.657584
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.657642
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.657770
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.657834
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.657891
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.657954
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.658011
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.658067
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.658127
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.658188
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.658245
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.658319
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.658377
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.658438
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.658498
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.658555
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.658615
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.658675
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.658736
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.658793
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.658849
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.658912
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.658994
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.659154
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.659223
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.659287
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.659359
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.659425
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.659494
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.659558
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.659622
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.659690
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.659757
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.659822
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.659889
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.659957
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.660024
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.660089
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.660152
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.660220
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.660290
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.660352
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.660409
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:11.660470
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:38:21.004448
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:54:33.457668
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:55:29.369736
+INFO:root:02 | URL is not valid -- example: http://bbc.co.uk | None | 2022-03-02 10:55:47.973624
+INFO:root:02 | URL is not valid -- example: http://example.co.uk | None | 2022-03-02 11:05:21.101840
+INFO:root:02 | URL is not valid -- example: http://example.co.uk | None | 2022-03-02 11:05:56.033094
+INFO:root:02 | URL is not valid -- example: http://example.co.uk | None | 2022-03-02 11:06:32.199026
+INFO:root:10 | Success | http://bbc.co.uk | 2022-03-02 11:26:36.546185
+INFO:root:02 | URL is not valid -- example: http://example.co.uk | None | 2022-03-02 11:28:02.921888
+INFO:root:10 | Success | https://bbc.co.uk | 2022-03-02 11:29:29.435200
+INFO:root:02 | URL is not valid -- example: http://example.co.uk | None | 2022-03-02 11:29:37.484190
+INFO:root:02 | URL is not valid -- example: http://example.co.uk | None | 2022-03-02 11:31:47.002140
+INFO:root:10 | Success | https://bbc.co.uk | 2022-03-02 11:31:58.481872
+INFO:root:10 | Success | https://bbc.co.uk | 2022-03-02 11:32:12.795658
+INFO:root:02 | URL is not valid -- example: http://example.co.uk | None | 2022-03-02 11:32:23.448401
+INFO:root:02 | URL is not valid -- example: http://example.co.uk | None | 2022-03-02 11:34:21.686871
+INFO:root:02 | URL is not valid -- example: http://example.co.uk | None | 2022-03-02 11:36:26.790869
+INFO:root:10 | Success | https://bbc.co.uk | 2022-03-02 11:36:33.722703
+INFO:root:10 | Success | http://www.wp.pl | 2022-03-02 11:39:02.309792
+INFO:root:02 | URL is not valid -- example: http://example.co.uk | None | 2022-03-02 11:39:21.257240
+INFO:root:02 | URL is not valid -- example: http://example.co.uk | None | 2022-03-02 11:40:46.888614
+INFO:root:02 | URL is not valid -- example: http://example.co.uk | None | 2022-03-02 11:45:00.830714
+INFO:root:02 | URL is not valid -- example: http://example.co.uk | None | 2022-03-02 11:46:18.041504
+INFO:root:10 | Success | http://www.wp.pl | 2022-03-02 11:46:33.434596

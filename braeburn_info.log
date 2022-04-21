@@ -1,0 +1,234 @@
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-17 21:35:40.028001
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-17 21:36:57.332758
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-17 21:37:48.277781
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-17 21:38:20.421891
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-17 21:40:09.034615
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-17 21:47:21.773207
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-17 21:49:32.643518
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-18 08:40:09.739363
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-18 08:40:40.949935
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-18 08:41:35.782688
+INFO:root:10 | Success | http://google.com | 2022-02-18 08:42:45.666703
+WARNING:django.request:Not Found: /favicon.ico
+INFO:root:10 | Success | http://google.com | 2022-02-18 09:16:51.048277
+INFO:django.utils.autoreload:/Users/lechowski/WebDev/Python/testing.testing/braeburn.py changed, reloading.
+ERROR:django.request:Internal Server Error: /braeburn/
+Traceback (most recent call last):
+  File "/Users/lechowski/WebDev/Python/testing.testing/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/lechowski/WebDev/Python/testing.testing/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/lechowski/WebDev/Python/testing.testing/.venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/lechowski/WebDev/Python/testing.testing/.venv/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/lechowski/WebDev/Python/testing.testing/.venv/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/lechowski/WebDev/Python/testing.testing/.venv/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/lechowski/WebDev/Python/testing.testing/.venv/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/lechowski/WebDev/Python/testing.testing/.venv/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/lechowski/WebDev/Python/testing.testing/pinklady/pinklady/views.py", line 35, in post
+    my_response = subprocess.call(braeburn, url)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/subprocess.py", line 345, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/subprocess.py", line 775, in __init__
+    raise TypeError("bufsize must be an integer")
+TypeError: bufsize must be an integer
+INFO:django.utils.autoreload:/Users/lechowski/WebDev/Python/testing.testing/pinklady/pinklady/views.py changed, reloading.
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-18 09:18:30.080330
+INFO:django.utils.autoreload:/Users/lechowski/WebDev/Python/testing.testing/pinklady/pinklady/views.py changed, reloading.
+INFO:django.utils.autoreload:/Users/lechowski/WebDev/Python/testing.testing/pinklady/pinklady/views.py changed, reloading.
+ERROR:django.request:Internal Server Error: /braeburn/
+Traceback (most recent call last):
+  File "/Users/lechowski/WebDev/Python/testing.testing/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/lechowski/WebDev/Python/testing.testing/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/lechowski/WebDev/Python/testing.testing/.venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/lechowski/WebDev/Python/testing.testing/.venv/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/lechowski/WebDev/Python/testing.testing/.venv/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/lechowski/WebDev/Python/testing.testing/.venv/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/lechowski/WebDev/Python/testing.testing/.venv/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/lechowski/WebDev/Python/testing.testing/.venv/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/lechowski/WebDev/Python/testing.testing/pinklady/pinklady/views.py", line 35, in post
+    my_response = subprocess.check_output([f'python braeburn.py {url}'], shell=False, universal_newlines=False)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/subprocess.py", line 420, in check_output
+    return run(*popenargs, stdout=PIPE, timeout=timeout, check=True,
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/subprocess.py", line 501, in run
+    with Popen(*popenargs, **kwargs) as process:
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/subprocess.py", line 966, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/subprocess.py", line 1842, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'python braeburn.py https://bbc.co.uk'
+INFO:django.utils.autoreload:/Users/lechowski/WebDev/Python/testing.testing/pinklady/pinklady/views.py changed, reloading.
+ERROR:django.request:Internal Server Error: /braeburn/
+Traceback (most recent call last):
+  File "/Users/lechowski/WebDev/Python/testing.testing/.venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/lechowski/WebDev/Python/testing.testing/.venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/lechowski/WebDev/Python/testing.testing/.venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/lechowski/WebDev/Python/testing.testing/.venv/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/lechowski/WebDev/Python/testing.testing/.venv/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/lechowski/WebDev/Python/testing.testing/.venv/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/lechowski/WebDev/Python/testing.testing/.venv/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/lechowski/WebDev/Python/testing.testing/.venv/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/lechowski/WebDev/Python/testing.testing/pinklady/pinklady/views.py", line 35, in post
+    my_response = subprocess.check_output(f'python braeburn.py {url}', shell=False, universal_newlines=False)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/subprocess.py", line 420, in check_output
+    return run(*popenargs, stdout=PIPE, timeout=timeout, check=True,
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/subprocess.py", line 501, in run
+    with Popen(*popenargs, **kwargs) as process:
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/subprocess.py", line 966, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/subprocess.py", line 1842, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'python braeburn.py https://bbc.co.uk'
+INFO:root:10 | Success | http://google.com | 2022-02-18 09:21:15.249561
+INFO:root:10 | Success | http://google.com | 2022-02-18 09:21:30.736234
+INFO:django.utils.autoreload:/Users/lechowski/WebDev/Python/testing.testing/braeburn.py changed, reloading.
+INFO:root:10 | Success | http://google.com | 2022-02-18 09:21:51.778145
+INFO:root:10 | Success | http://google.com | 2022-02-18 09:22:12.709579
+INFO:root:10 | Success | http://google.com | 2022-02-18 09:38:34.658492
+INFO:django.utils.autoreload:/Users/lechowski/WebDev/Python/testing.testing/braeburn.py changed, reloading.
+INFO:root:10 | Success | http://google.com | 2022-02-18 09:40:22.785741
+INFO:django.utils.autoreload:/Users/lechowski/WebDev/Python/testing.testing/braeburn.py changed, reloading.
+INFO:django.utils.autoreload:/Users/lechowski/WebDev/Python/testing.testing/braeburn.py changed, reloading.
+INFO:root:10 | Success | http://google.com | 2022-02-18 09:44:14.730755
+INFO:root:10 | Success | http://google.com | 2022-02-18 09:47:43.799815
+INFO:django.utils.autoreload:/Users/lechowski/WebDev/Python/testing.testing/braeburn.py changed, reloading.
+INFO:root:10 | Success | http://google.com | 2022-02-18 09:50:03.428854
+INFO:django.utils.autoreload:/Users/lechowski/WebDev/Python/testing.testing/braeburn.py changed, reloading.
+INFO:root:10 | Success | http://google.com | 2022-02-18 09:51:59.602266
+INFO:root:10 | Success | http://google.com | 2022-02-18 09:55:00.721047
+INFO:root:10 | Success | http://google.com | 2022-02-18 09:56:24.581035
+INFO:django.utils.autoreload:/Users/lechowski/WebDev/Python/testing.testing/braeburn.py changed, reloading.
+INFO:django.utils.autoreload:/Users/lechowski/WebDev/Python/testing.testing/braeburn.py changed, reloading.
+INFO:root:10 | Success | http://google.com | 2022-02-18 10:13:15.256817
+INFO:django.utils.autoreload:/Users/lechowski/WebDev/Python/testing.testing/braeburn.py changed, reloading.
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:13:53.295058
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:17:20.987136
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:22:23.175136
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:24:48.440453
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:26:32.858290
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:26:46.088765
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:27:40.993735
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:27:57.607435
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:28:11.411006
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:28:38.826488
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:31:34.568228
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:31:59.218063
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:32:16.019253
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:41:36.937820
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:43:47.237535
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:44:11.756158
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:50:10.249687
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:50:20.368596
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:51:01.499459
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:51:20.623267
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:52:20.361159
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:52:33.966783
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:52:55.292058
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:53:21.003282
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:54:36.360398
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:55:20.841153
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:56:00.382565
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:56:13.494482
+INFO:root:10 | Success | http://google.com | 2022-02-18 13:59:56.737567
+INFO:root:10 | Success | http://google.com | 2022-02-18 14:07:39.971811
+INFO:root:10 | Success | http://google.com | 2022-02-18 14:07:55.535153
+INFO:root:10 | Success | http://google.com | 2022-02-18 14:08:21.818234
+INFO:root:10 | Success | http://google.com | 2022-02-18 14:12:57.056972
+INFO:root:10 | Success | http://google.com | 2022-02-18 14:13:27.919768
+INFO:root:10 | Success | http://google.com | 2022-02-18 14:15:04.680187
+INFO:root:10 | Success | http://google.com | 2022-02-18 14:15:43.646473
+INFO:root:10 | Success | http://google.com | 2022-02-18 14:16:03.131303
+INFO:root:10 | Success | http://google.com | 2022-02-18 14:16:42.954598
+INFO:root:10 | Success | http://google.com | 2022-02-18 14:17:21.333431
+INFO:root:10 | Success | http://google.com | 2022-02-18 14:17:28.025944
+INFO:root:10 | Success | http://google.com | 2022-02-18 14:17:39.144651
+INFO:root:10 | Success | http://google.com | 2022-02-18 14:18:34.066139
+INFO:root:10 | Success | http://google.com | 2022-02-18 14:20:54.620831
+INFO:root:10 | Success | http://google.com | 2022-02-18 14:21:09.233560
+INFO:root:10 | Success | http://google.com | 2022-02-18 14:21:35.901788
+INFO:root:10 | Success | http://google.com | 2022-02-18 14:21:55.023681
+INFO:root:10 | Success | http://google.com | 2022-02-18 14:22:36.368536
+INFO:root:10 | Success | http://google.com | 2022-02-18 14:23:45.112930
+INFO:root:10 | Success | http://google.com | 2022-02-18 14:24:08.248512
+INFO:root:10 | Success | http://google.com | 2022-02-18 14:24:28.706781
+INFO:root:10 | Success | http://google.com | 2022-02-18 14:34:01.506103
+INFO:root:10 | Success | http://google.com | 2022-02-18 15:15:07.418292
+INFO:root:10 | Success | http://google.com | 2022-02-18 15:15:18.721046
+INFO:root:10 | Success | http://google.com | 2022-02-18 15:15:45.838965
+INFO:root:10 | Success | http://google.com | 2022-02-18 15:16:11.156362
+INFO:root:10 | Success | http://google.com | 2022-02-18 15:19:58.602794
+INFO:root:10 | Success | http://google.com | 2022-02-18 15:35:35.790627
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-18 18:09:48.524682
+INFO:django.utils.autoreload:/Users/lechowski/WebDev/Python/testing.testing/pinklady/pinklady/views.py changed, reloading.
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-18 18:10:57.901014
+INFO:root:10 | Success | http://google.com | 2022-02-18 18:11:13.451685
+INFO:django.utils.autoreload:/Users/lechowski/WebDev/Python/testing.testing/pinklady/pinklady/views.py changed, reloading.
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-18 18:12:33.308520
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-18 18:15:17.840751
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-18 18:17:00.410040
+INFO:root:10 | Success | http://google.com | 2022-02-18 18:19:59.344134
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-18 18:20:51.025953
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-18 18:27:09.705848
+INFO:root:10 | Success | http://bbc.co.uk | 2022-02-21 16:54:12.268637
+INFO:root:10 | Success | http://bbc.co.uk | 2022-02-21 16:58:48.833230
+INFO:root:10 | Success | http://bbc.co.uk | 2022-02-21 17:26:43.997164
+INFO:root:10 | Success | http://bbc.co.uk | 2022-02-21 18:01:06.906261
+INFO:root:10 | Success | http://bbc.co.uk | 2022-02-21 18:19:15.156638
+INFO:root:10 | Success | http://bbc.co.uk | 2022-02-21 18:49:35.705298
+INFO:root:10 | Success | http://bbc.co.uk | 2022-02-21 18:50:11.936034
+INFO:root:10 | Success | http://bbc.co.uk | 2022-02-21 18:51:36.841329
+INFO:root:10 | Success | http://bbc.co.uk | 2022-02-21 18:53:37.670929
+INFO:root:10 | Success | http://bbc.co.uk | 2022-02-21 19:18:02.993135
+INFO:root:10 | Success | http://bbc.co.uk | 2022-02-21 19:18:33.542989
+ERROR:root:Error 01: Usage: /Users/lechowski/WebDev/Python/testing.testing/braeburn.py <url address> | 2022-02-22 08:36:11.374225
+ERROR:root:Error 01: Usage: /Users/lechowski/WebDev/Python/testing.testing/braeburn.py <url address> | 2022-02-22 08:36:11.377347
+INFO:root:10 | Success | http://bbc.co.uk | 2022-02-22 08:43:56.795384
+INFO:root:10 | Success | http://bbc.co.uk | 2022-02-22 08:46:34.677436
+INFO:root:10 | Success | http://bbc.co.uk | 2022-02-22 08:47:17.122767
+INFO:root:10 | Success | http://bbc.co.uk | 2022-02-22 08:50:56.787405
+INFO:root:10 | Success | http://bbc.co.uk | 2022-02-22 08:52:01.488132
+INFO:root:10 | Success | http://bbc.co.uk | 2022-02-22 08:54:21.358562
+INFO:root:10 | Success | http://bbc.co.uk | 2022-02-22 08:55:03.878106
+INFO:root:10 | Success | http://bbc.co.uk | 2022-02-22 08:56:25.113584
+INFO:root:10 | Success | http://bbc.co.uk | 2022-02-22 08:56:45.034066
+INFO:root:10 | Success | http://google.com | 2022-02-22 08:58:36.863377
+INFO:root:10 | Success | https://borkowski.xyz/projects/stopwatch/ | 2022-02-22 09:00:07.380254
+INFO:root:10 | Success | https://borkowski.xyz/projects/stopwatch/ | 2022-02-22 09:05:14.257959
+INFO:root:10 | Success | https://borkowski.xyz/projects/stopwatch/ | 2022-02-22 09:12:04.546645
+INFO:root:10 | Success | https://borkowski.xyz/projects/stopwatch/ | 2022-02-22 09:20:47.572458
+INFO:root:10 | Success | https://borkowski.xyz/projects/stopwatch/ | 2022-02-22 09:24:30.832565
+INFO:root:10 | Success | https://borkowski.xyz/projects/stopwatch/ | 2022-02-22 09:25:09.217567
+INFO:root:10 | Success | https://borkowski.xyz/projects/stopwatch/ | 2022-02-22 09:26:14.715650
+INFO:root:10 | Success | https://borkowski.xyz/projects/stopwatch/ | 2022-02-22 09:29:52.412194
+INFO:root:10 | Success | http://bbc.co.uk | 2022-02-22 09:33:16.978288
+INFO:root:10 | Success | http://bbc.co.uk | 2022-02-22 09:39:47.823617
+INFO:root:10 | Success | http://bbc.co.uk | 2022-02-22 10:00:59.153083
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-22 10:04:22.777461
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-22 10:06:33.021568
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-22 10:23:15.649161
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-22 10:23:47.504935
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-22 10:24:18.281650
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-22 10:24:21.223827
+INFO:root:10 | Success | https://bbc.co.uk | 2022-02-22 10:26:19.030230
+ERROR:root:Error 02: URL is not valid -- example: http://bbc.co.uk | 2022-02-22 10:26:28.931336
